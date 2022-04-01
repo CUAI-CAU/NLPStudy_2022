@@ -4,7 +4,7 @@
 ## Progress
 |DATE|SUBJECT|CONTENT|
 |------|---|---|
-|03.18.22|Decide papers to read|.|
-|03.25.22|Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation||
-|04.01.22|Implementation(1) |.|
-|04.08.22|Implementation(2) |.|
+|03.18.22|Decide papers to read||
+|03.25.22|Reading first paper|Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation https://arxiv.org/pdf/1406.1078.pdf |
+|04.01.22|Implementation(1) |https://github.com/bentrevett/pytorch-seq2seq.git <br> https://codlingual.tistory.com/91 <br> https://wikidocs.net/24996 |
+|04.08.22|Implementation(2) |https://tutorials.pytorch.kr/intermediate/seq2seq_translation_tutorial.html#id5 |
