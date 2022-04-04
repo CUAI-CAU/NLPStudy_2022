@@ -1,6 +1,11 @@
 # NLPStudy_2022
 This is the Repository for CUAI 5th NLP papers implementation study. 
 
+## Member
+박경빈(Bak Gyeongbin) <br>
+서희재 <br>
+이주현 <br>
+
 ## Progress
 |DATE|SUBJECT|CONTENT|
 |------|---|---|
