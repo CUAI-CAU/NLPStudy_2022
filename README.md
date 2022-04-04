@@ -1,10 +1,10 @@
 # NLPStudy_2022
-This is the Repository for CUAI 5th NLP papers implementation study. 
+This is the Repository for CUAI 5th NLP Papers Implementation Study. 
 
 ## Member
 😻 Gyeongbin Bak(박경빈) - Computer Science and Engineering <br>
-😀 Lee Juhyeon(이주현) - <br>
-😀 Seo Heejae(서희재) - Computer Science and Engineering <br>
+😀 Juhyeon Lee(이주현) - <br>
+😀 Heejae Seo(서희재) - Computer Science and Engineering <br>
 
 ## Progress
 |DATE|SUBJECT|CONTENT|
