@@ -2,9 +2,9 @@
 This is the Repository for CUAI 5th NLP papers implementation study. 
 
 ## Member
-😻 박경빈(Bak Gyeongbin) <br>
-😀 서희재(Seo Heejae) <br>
-😀 이주현(Lee Juhyeon) <br>
+😻 박경빈(Bak Gyeongbin) - Computer Science and Engineering <br>
+😀 서희재(Seo Heejae) - Computer Science and Engineering <br>
+😀 이주현(Lee Juhyeon) - <br>
 
 ## Progress
 |DATE|SUBJECT|CONTENT|
