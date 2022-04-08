@@ -3,7 +3,7 @@ This is the Repository for CUAI 5th NLP Papers Implementation Study.
 
 ## Member
 😻 Gyeongbin Bak(박경빈) - Computer Science and Engineering <br>
-😀 Juhyeon Lee(이주현) - <br>
+😀 Juhyeon Lee(이주현) - French Literature (double majoring Applied Statistics) <br>
 🙃 Heejae Suh(서희재) - Computer Science and Engineering <br>
 
 ## Progress
