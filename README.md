@@ -14,3 +14,5 @@ This is the Repository for CUAI 5th NLP Papers Implementation Study.
 |04.01.22|Implementation(1) |practice code 1 : https://github.com/bentrevett/pytorch-seq2seq.git <br> practice code reference : https://codlingual.tistory.com/91 <br> seq2seq reference(TensorFlow) : https://wikidocs.net/24996 |
 |04.08.22|Implementation(2) |practice code 2 : https://tutorials.pytorch.kr/intermediate/seq2seq_translation_tutorial.html#id5 |
 |04.29.22|Reading Second Paper|Attention Is All You Need (https://arxiv.org/abs/1706.03762)|
+|05.06.22|Paper Review| |
+|05.13.22|Reading Third Paper|BERT:Pre-training of Deep Bidirectional Transformers for Language Understanding(https://arxiv.org/abs/1810.04805)
